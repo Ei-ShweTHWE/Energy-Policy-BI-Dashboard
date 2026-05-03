@@ -24,7 +24,7 @@ This repository showcases a Business Intelligence (BI) solution developed to mon
     *   `Residual Load Share %`
     *   `Peak Fossil Share %`
 
-![Star Schema Architecture](Star Schema Architecture.jpg)  
+![Star Schema](Star%20Schema%20Architecture.jpg) 
 *Figure 1: Relational Star Schema linking Fact Tables to a Central Date Dimension.*
 
 ## 5. Key Strategic Insights
@@ -32,17 +32,17 @@ This repository showcases a Business Intelligence (BI) solution developed to mon
 *   **Sustainability Gap:** Forecasted a **25% to 30% gap** between current trajectories and the 80% statutory renewable mandate for 2030.
 *   **Economic Impact:** Visualized the **Merit Order Effect**, demonstrating how renewable peaks displace expensive fossil fuel sources to lower wholesale market prices.
 
-![Page-one Final](Page-one Final.jpg)  
+![Page One](Page-one%20Final.jpg)  
 *Figure 2: Energy Security Overview – Monitoring grid load trends, peak vs. off-peak consumption, and hourly demand patterns.*
 
 ---
 
-![Page-two Final](Page-two Final.jpg)  
+![Page Two](Page-two%20Final.jpg)  
 *Figure 3: Environmental Sustainability – Visualizing the "Duck Curve," residual load trends, and the projected gap toward the 2030 renewable targets.*
 
 ---
 
-![Page-three Final](Page-three Final.jpg)  
+![Page Three](Page-three%20Final.jpg) 
 *Figure 4: Energy Equity – Analyzing wholesale market prices (€/MWh), the Merit Order Effect, and the occurrence of negative price periods.*
 
 ## 6. Impact & Validation
