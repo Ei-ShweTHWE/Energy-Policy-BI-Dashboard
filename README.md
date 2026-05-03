@@ -23,6 +23,7 @@ This repository showcases a Business Intelligence (BI) solution developed to mon
 *   **DAX Measures:** Developed custom calculations for KPIs to decouple logic from the visual layer:
     *   `Residual Load Share %`
     *   `Peak Fossil Share %`
+
 ![Star Schema Architecture](Star Schema Architecture.jpg)  
 *Figure 1: Relational Star Schema linking Fact Tables to a Central Date Dimension.*
 
