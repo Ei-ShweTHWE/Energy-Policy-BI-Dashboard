@@ -1,6 +1,8 @@
 # Supporting Energy Policy Decisions Using Business Intelligence
 **Master’s Thesis Project: A Decision Support System for Germany’s Energiewende**
 
+> 📄 **High-Level Strategic Overview:** For a detailed analysis of policy implications and expert validation, see the [Executive Report_BIDS.pdf](Executive%20Report_BIDS.pdf).
+
 ## 1. Project Overview
 This repository showcases a Business Intelligence (BI) solution developed to monitor and analyze energy data. The project integrates fragmented federal data into a unified Power BI dashboard to support proactive policy adjustments and mitigate **Bounded Rationality** in decision-making.
 
